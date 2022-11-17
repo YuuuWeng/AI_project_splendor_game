@@ -10,4 +10,4 @@ P.s. Due to many limitations, although we hope to implement the A star algorithm
 ## AI Method 2 - Alpha-beta Pruning
 This algorithm adopts roughly the same evaluation method as A Star, but is quite different in algorithm structure. Its core methods are a maximum pruning function and a minimum pruning function, which is corresponding to choose the most optimum action to our AI agent self and most optimum action to its opponent (the worst action to our agent) respectively.
 ## Rank
-7/87
+8/87
